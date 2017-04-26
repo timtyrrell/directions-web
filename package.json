@@ -1,0 +1,15 @@
+{
+  "name": "directions-app",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "moment": "^2.18.1",
+    "next": "^2.2.0",
+    "react": "^15.5.3",
+    "react-datetime": "^2.8.9",
+    "react-dom": "^15.5.3"
+  }
+}
